@@ -1,5 +1,11 @@
 # Changelog
 
+## Post-release metadata
+
+Backfill the 1.0.0 version and collection DOIs. Add explicit Zenodo dataset
+metadata for future automatic archives. The signed 1.0.0 tag, release archive,
+data and transformation rules remain unchanged.
+
 ## 1.0.0
 
 Initial edition: the frozen Wiktionary-derived original plus simple,

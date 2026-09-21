@@ -1,0 +1,22 @@
+{
+  "title": "Classical Lexical Test Data: Latin Dictionary Inputs",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-09-22",
+  "access_right": "open",
+  "license": "cc-by-sa-4.0",
+  "creators": [
+    {
+      "name": "Fang, Xinjie",
+      "affiliation": "Classical Cat Digital Humanities Lab"
+    }
+  ],
+  "description": "A frozen Wiktionary-derived Latin dictionary input collection for compatibility, regression and stress testing. Each UTF-8 line is an equal lookup input, not an expected linguistic answer. Includes original, simple, teaching and special-character datasets, source attribution, manifests, checksums and reproducible standard-library Python builders. Lexical content: English Wiktionary contributors via Kaikki / Wiktextract (Tatu Ylonen and contributors). Selection and transformation: Xinjie Fang, Classical Cat Digital Humanities Lab. Data and documentation are CC BY-SA 4.0; original tools and tests are AGPL-3.0-only. Coverage is bounded by the captured source; no exhaustive historical-Latin coverage is claimed.",
+  "keywords": [
+    "Latin",
+    "Wiktionary",
+    "lexicography",
+    "compatibility testing",
+    "dictionary inputs"
+  ]
+}

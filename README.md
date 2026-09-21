@@ -62,6 +62,10 @@ maintained by **Xinjie Fang, Classical Cat Digital Humanities Lab**.
 - [Source provenance](docs/SOURCES.md) records the snapshot and source-page index.
 - [CITATION.cff](CITATION.cff) supplies dataset citation metadata.
 
+Version 1.0.0 is archived at [doi:10.5281/zenodo.22880153](https://doi.org/10.5281/zenodo.22880153).
+Use the [all-versions DOI](https://doi.org/10.5281/zenodo.22880152) when referring
+to the collection across editions. Cite the version DOI for reproducible tests.
+
 The software license does not replace the data license. No restriction is asserted
 over individual words or facts beyond rights that actually apply. For fixes and
 new profiles, see [CONTRIBUTING](CONTRIBUTING.md).

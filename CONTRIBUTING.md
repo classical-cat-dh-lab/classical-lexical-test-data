@@ -15,3 +15,10 @@ the transformation policy changes. Keep the original byte-identical.
 
 Contributions to data and documentation use CC BY-SA 4.0; contributions to software
 use AGPL-3.0-only, as described in NOTICE.md. Retain upstream source credit.
+
+For a release, keep `CITATION.cff` and `.zenodo.json` consistent in title, creator,
+version, date and data license. Zenodo's GitHub integration uses `.zenodo.json`
+when both files exist; it explicitly declares the collection as a dataset.
+The integration archives the tagged repository, including its gzip data files.
+After archiving, backfill the new version DOI in the citation and README, then
+refresh `SHA256SUMS`. Keep existing release tags and archives unchanged.
