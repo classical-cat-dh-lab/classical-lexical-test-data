@@ -1,0 +1,93 @@
+{
+  "schema": "classical-lexical-test-data/1",
+  "version": "1.0.0",
+  "original_id": "wiktionary-latin-inputs-v1",
+  "source_sha256": "ea1748a45aaa98dc09ecd3ce8f541241abcba3bab24bb51d6a8a59eb75c2be0b",
+  "python_version": "3.14.7",
+  "unicode_version": "16.0.0",
+  "zlib_version": "1.2.12",
+  "builder_sha256": "4c56f2bdfe3d5f3bebf7374b3f1875fe13394897eef8cdcdc7f67e449286f783",
+  "profiles": {
+    "original": {
+      "file": "original.txt.gz",
+      "count": 2074758,
+      "bytes": 25815761,
+      "sha256": "ea1748a45aaa98dc09ecd3ce8f541241abcba3bab24bb51d6a8a59eb75c2be0b",
+      "gzip_bytes": 5100523,
+      "gzip_sha256": "3464bd25475e6c9a7bdc95fd540f1e6697a4984f9be0107e75d391907a2e4c20"
+    },
+    "simple": {
+      "file": "simple.txt.gz",
+      "count": 3036169,
+      "bytes": 36250514,
+      "sha256": "4e8a5ad12bb24297103f6e49fd1f9c00067cfe9b2c4b46556d64141ee9cafec5",
+      "gzip_bytes": 7228081,
+      "gzip_sha256": "35f4f5103cdaed5f20c9a2d4d30fc581cac28d49d03d11859e8322ca0656f273"
+    },
+    "teaching": {
+      "file": "teaching.txt.gz",
+      "count": 4126749,
+      "bytes": 50878791,
+      "sha256": "60f5544d272f601edcd005cec0f6518226f688003e7f8bc755396e5a32bf42ca",
+      "gzip_bytes": 10063920,
+      "gzip_sha256": "594a886f942927d8f22f0effa36515484bc46fad083123cc1d86f7e10aeb0faa"
+    },
+    "special": {
+      "file": "special.txt.gz",
+      "count": 1014233,
+      "bytes": 13630175,
+      "sha256": "8fe7e074f2e87a8e5d85daffea8bc921f4b49aa2012fc5da6be72fdfc9ef5d22",
+      "gzip_bytes": 2608611,
+      "gzip_sha256": "8394cee29845cfc020c50916514c3f7ac3e82e1aea2425b77d945a6372a4e665"
+    }
+  },
+  "teaching_additions_over_simple": 1090580,
+  "simple_empty_source_inputs_omitted": 19,
+  "teaching_empty_source_inputs_omitted": 16,
+  "above_combining_classes": [
+    212,
+    214,
+    216,
+    228,
+    230,
+    232,
+    234
+  ],
+  "above_exceptions": [
+    "U+05C1",
+    "U+05C2",
+    "U+064B",
+    "U+064C",
+    "U+064E",
+    "U+064F",
+    "U+0651",
+    "U+0652",
+    "U+0670",
+    "U+0EB1"
+  ],
+  "spacing_above": [
+    "U+00A8",
+    "U+00AF",
+    "U+00B4",
+    "U+02C6",
+    "U+02C7",
+    "U+02C9",
+    "U+02CA",
+    "U+02CB",
+    "U+02D8",
+    "U+02D9",
+    "U+02DA",
+    "U+02DC",
+    "U+02DD",
+    "U+0384"
+  ],
+  "teaching_keep": [
+    "U+00A8",
+    "U+00AF",
+    "U+02C9",
+    "U+0304",
+    "U+0308"
+  ],
+  "special_rule": "Original inputs containing any character outside ASCII A-Z, a-z and space",
+  "normalization": "Original/special exact; transformed inputs NFD then filtering/folding then NFC"
+}

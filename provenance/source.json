@@ -1,0 +1,45 @@
+{
+  "source": "English Wiktionary contributors via Kaikki / Wiktextract",
+  "landing_page": "https://kaikki.org/dictionary/rawdata.html",
+  "download_url": "https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz",
+  "download_url_is_rotating": true,
+  "dump_date": "2026-09-02",
+  "extraction_date": "2026-09-16",
+  "capture_date": "2026-09-20",
+  "raw_gzip_bytes": 2900609279,
+  "raw_gzip_sha256": "c7f0ebb9bc6f7ed8bd396dd338d62ef67e1141fe2acfedb2ef6e09e34fe3d4f9",
+  "raw_records": 10913996,
+  "raw_uncompressed_bytes": 25185689249,
+  "wiktextract_revision": "d6fca2773bc90b9157248b9edf69585da06bf393",
+  "wikitextprocessor_revision": "65e1673d15c3b06f1de84d1c34303fc8f68c3528",
+  "original_dataset_id": "wiktionary-latin-inputs-v1",
+  "original_freeze_date": "2026-09-21",
+  "original_sha256": "ea1748a45aaa98dc09ecd3ce8f541241abcba3bab24bb51d6a8a59eb75c2be0b",
+  "source_components": [
+    {
+      "source_component": "raw-language-slices/la.jsonl",
+      "sha256": "db22ee02e641d24c07121a799efab4d1bf3de3a58133beacfca740cfae0c9667",
+      "records": 892320
+    },
+    {
+      "source_component": "raw-latin-supplement/explicit-latin.jsonl",
+      "sha256": "2ad42bb7c6d50d820800438adb61757f87fdcf37c3de573e46eb3d7af60fb213",
+      "records": 48282
+    },
+    {
+      "source_component": "raw-latin-supplement/redirects.jsonl",
+      "sha256": "b3e5b0d448470d436f35acd77c4d6e795032da4b31625f9546a0b9be057c0d58",
+      "records": 49551
+    }
+  ],
+  "source_page_index": {
+    "file": "source-pages.txt.gz",
+    "count": 956844,
+    "bytes": 42462053,
+    "sha256": "57e275f27b54974b62263c16db8c2e380d74d72501b82b811c2e231133b42d94",
+    "gzip_bytes": 2845356,
+    "gzip_sha256": "9e26875d06a7dcdbc37f80934ed24b6fe96e73dbced49b79158b45ef43e9a1f4",
+    "scope": "Latin entry pages, explicit Latin reference host pages, and all inspected neutral alias pages and targets; a conservative source coverage index, not per-input relations",
+    "revision_scope": "Page URLs lead to contributor histories; URLs are not revision-pinned snapshot copies"
+  }
+}

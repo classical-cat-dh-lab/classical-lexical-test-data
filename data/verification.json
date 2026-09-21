@@ -1,0 +1,21 @@
+{
+  "result": "pass",
+  "datasets": {
+    "original": {
+      "count": 2074758,
+      "format_hash_and_complete_set": "pass"
+    },
+    "simple": {
+      "count": 3036169,
+      "format_hash_and_complete_set": "pass"
+    },
+    "teaching": {
+      "count": 4126749,
+      "format_hash_and_complete_set": "pass"
+    },
+    "special": {
+      "count": 1014233,
+      "format_hash_and_complete_set": "pass"
+    }
+  }
+}

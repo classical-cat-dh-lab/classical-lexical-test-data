@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this dataset and retain the upstream attribution in NOTICE.md."
+type: dataset
+title: "Classical Lexical Test Data: Latin Dictionary Inputs"
+version: 1.0.0
+authors:
+  - family-names: Fang
+    given-names: Xinjie
+    affiliation: Classical Cat Digital Humanities Lab
+repository-code: "https://github.com/classical-cat-dh-lab/classical-lexical-test-data"
+url: "https://github.com/classical-cat-dh-lab/classical-lexical-test-data"
+license: CC-BY-SA-4.0
+keywords:
+  - Latin
+  - Wiktionary
+  - lexicography
+  - compatibility testing
+  - dictionary inputs
+abstract: >-
+  A frozen Wiktionary-derived Latin dictionary input collection, with simple,
+  teaching and special-character views for behavior and stress testing.
+  It supplies lookup inputs rather than expected linguistic analyses.

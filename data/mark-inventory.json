@@ -1,0 +1,418 @@
+[
+  {
+    "codepoint": "U+00AF",
+    "name": "MACRON",
+    "combining_class": 0,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+00B4",
+    "name": "ACUTE ACCENT",
+    "combining_class": 0,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+02D8",
+    "name": "BREVE",
+    "combining_class": 0,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0300",
+    "name": "COMBINING GRAVE ACCENT",
+    "combining_class": 230,
+    "input_count": 127,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0301",
+    "name": "COMBINING ACUTE ACCENT",
+    "combining_class": 230,
+    "input_count": 1168,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0302",
+    "name": "COMBINING CIRCUMFLEX ACCENT",
+    "combining_class": 230,
+    "input_count": 22,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0303",
+    "name": "COMBINING TILDE",
+    "combining_class": 230,
+    "input_count": 112,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0304",
+    "name": "COMBINING MACRON",
+    "combining_class": 230,
+    "input_count": 1006085,
+    "simple_removes": true,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0305",
+    "name": "COMBINING OVERLINE",
+    "combining_class": 230,
+    "input_count": 11,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0306",
+    "name": "COMBINING BREVE",
+    "combining_class": 230,
+    "input_count": 6581,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0308",
+    "name": "COMBINING DIAERESIS",
+    "combining_class": 230,
+    "input_count": 845,
+    "simple_removes": true,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+030A",
+    "name": "COMBINING RING ABOVE",
+    "combining_class": 230,
+    "input_count": 3,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+030C",
+    "name": "COMBINING CARON",
+    "combining_class": 230,
+    "input_count": 71,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+030F",
+    "name": "COMBINING DOUBLE GRAVE ACCENT",
+    "combining_class": 230,
+    "input_count": 154,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0311",
+    "name": "COMBINING INVERTED BREVE",
+    "combining_class": 230,
+    "input_count": 61,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0313",
+    "name": "COMBINING COMMA ABOVE",
+    "combining_class": 230,
+    "input_count": 5,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0314",
+    "name": "COMBINING REVERSED COMMA ABOVE",
+    "combining_class": 230,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0323",
+    "name": "COMBINING DOT BELOW",
+    "combining_class": 220,
+    "input_count": 747,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0326",
+    "name": "COMBINING COMMA BELOW",
+    "combining_class": 220,
+    "input_count": 4,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0327",
+    "name": "COMBINING CEDILLA",
+    "combining_class": 202,
+    "input_count": 9,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0328",
+    "name": "COMBINING OGONEK",
+    "combining_class": 202,
+    "input_count": 617,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0331",
+    "name": "COMBINING MACRON BELOW",
+    "combining_class": 220,
+    "input_count": 2,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0335",
+    "name": "COMBINING SHORT STROKE OVERLAY",
+    "combining_class": 1,
+    "input_count": 1,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0336",
+    "name": "COMBINING LONG STROKE OVERLAY",
+    "combining_class": 1,
+    "input_count": 1,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0337",
+    "name": "COMBINING SHORT SOLIDUS OVERLAY",
+    "combining_class": 1,
+    "input_count": 2,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+0342",
+    "name": "COMBINING GREEK PERISPOMENI",
+    "combining_class": 230,
+    "input_count": 3,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0357",
+    "name": "COMBINING RIGHT HALF RING ABOVE",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+035B",
+    "name": "COMBINING ZIGZAG ABOVE",
+    "combining_class": 230,
+    "input_count": 11,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+035C",
+    "name": "COMBINING DOUBLE BREVE BELOW",
+    "combining_class": 233,
+    "input_count": 1,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+035E",
+    "name": "COMBINING DOUBLE MACRON",
+    "combining_class": 234,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0361",
+    "name": "COMBINING DOUBLE INVERTED BREVE",
+    "combining_class": 234,
+    "input_count": 125,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0363",
+    "name": "COMBINING LATIN SMALL LETTER A",
+    "combining_class": 230,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0366",
+    "name": "COMBINING LATIN SMALL LETTER O",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0367",
+    "name": "COMBINING LATIN SMALL LETTER U",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+05B5",
+    "name": "HEBREW POINT TSERE",
+    "combining_class": 15,
+    "input_count": 1,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+05B7",
+    "name": "HEBREW POINT PATAH",
+    "combining_class": 17,
+    "input_count": 1,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+05B8",
+    "name": "HEBREW POINT QAMATS",
+    "combining_class": 18,
+    "input_count": 1,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+05BC",
+    "name": "HEBREW POINT DAGESH OR MAPIQ",
+    "combining_class": 21,
+    "input_count": 1,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+05C1",
+    "name": "HEBREW POINT SHIN DOT",
+    "combining_class": 24,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+064E",
+    "name": "ARABIC FATHA",
+    "combining_class": 30,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+064F",
+    "name": "ARABIC DAMMA",
+    "combining_class": 31,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0651",
+    "name": "ARABIC SHADDA",
+    "combining_class": 33,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+0EB1",
+    "name": "LAO VOWEL SIGN MAI KAN",
+    "combining_class": 0,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+1DD0",
+    "name": "COMBINING IS BELOW",
+    "combining_class": 202,
+    "input_count": 2,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+1DD1",
+    "name": "COMBINING UR ABOVE",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+1DD2",
+    "name": "COMBINING US ABOVE",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+1DDD",
+    "name": "COMBINING LATIN SMALL LETTER L",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+1DE0",
+    "name": "COMBINING LATIN SMALL LETTER N",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+1DE3",
+    "name": "COMBINING LATIN SMALL LETTER R ROTUNDA",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+1DE5",
+    "name": "COMBINING LATIN SMALL LETTER LONG S",
+    "combining_class": 230,
+    "input_count": 2,
+    "simple_removes": true,
+    "teaching_removes": true
+  },
+  {
+    "codepoint": "U+FE0E",
+    "name": "VARIATION SELECTOR-15",
+    "combining_class": 0,
+    "input_count": 3,
+    "simple_removes": false,
+    "teaching_removes": false
+  },
+  {
+    "codepoint": "U+FE26",
+    "name": "COMBINING CONJOINING MACRON",
+    "combining_class": 230,
+    "input_count": 1,
+    "simple_removes": true,
+    "teaching_removes": true
+  }
+]
